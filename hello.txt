@@ -3,3 +3,7 @@ hello,ming yeye!!!
 hello, xll!!!
 耶斯莫拉！！！
 mingyeye is so handsome!!!!hahaha
+
+xll is mine!!!
+为什么我使用https协议不能推送至github,而我使用
+SSH免密协议就可以成功推送和拉取，求助！！！
