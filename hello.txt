@@ -7,3 +7,6 @@ mingyeye is so handsome!!!!hahaha
 xll is mine!!!
 为什么我使用https协议不能推送至github,而我使用
 SSH免密协议就可以成功推送和拉取，求助！！！
+
+md太难了，IDEA集成github又出错，使用口令登陆github显示我软件中断了连接，
+到底是什么原因！！！
